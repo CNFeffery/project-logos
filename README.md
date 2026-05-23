@@ -1,11 +1,11 @@
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+<table>
   <tr>
-    <td style="width: 33.333%; padding: 24px; text-align: center; vertical-align: middle;">
-      <img src="magic-dash/logo.svg" alt="magic-dash" style="max-width: 180px; width: 100%; height: auto;" />
+    <td width="33.333%" height="220" align="center" valign="middle">
+      <img src="magic-dash/logo.svg" alt="magic-dash" width="160" />
     </td>
-    <td style="width: 33.333%; padding: 24px; text-align: center; vertical-align: middle;">
-      <img src="feffery-infographic/fi-logo.svg" alt="feffery-infographic" style="max-width: 180px; width: 100%; height: auto;" />
+    <td width="33.333%" height="220" align="center" valign="middle">
+      <img src="feffery-infographic/fi-logo.svg" alt="feffery-infographic" width="160" />
     </td>
-    <td style="width: 33.333%; padding: 24px; text-align: center; vertical-align: middle;"></td>
+    <td width="33.333%" height="220" align="center" valign="middle"></td>
   </tr>
 </table>
