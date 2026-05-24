@@ -7,6 +7,7 @@
 - [feffery-antd-components](#feffery-antd-components)
 - [feffery-antd-charts](#feffery-antd-charts)
 - [feffery-infographic](#feffery-infographic)
+- [feffery-utils-components](#feffery-utils-components)
 
 ## dash
 
@@ -36,4 +37,10 @@
 
 <p align="center">
   <img src="feffery-infographic/fi-logo.svg" alt="feffery-infographic logo" width="50%" />
+</p>
+
+## feffery-utils-components
+
+<p align="center">
+  <img src="feffery-utils-components/fuc-logo.svg" alt="feffery-utils-components logo" width="50%" />
 </p>
