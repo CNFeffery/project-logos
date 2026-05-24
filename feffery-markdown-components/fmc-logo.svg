@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="414px" height="357px" viewBox="0 0 414 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>fmc-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="165.275627%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.635191),rotate(136.266276),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#979797" offset="0%"></stop>
+            <stop stop-color="#9E9E9E" offset="13.0283116%"></stop>
+            <stop stop-color="#ACACAC" offset="40.7008466%"></stop>
+            <stop stop-color="#BBBBBB" offset="66.5712677%"></stop>
+            <stop stop-color="#E3DEDE" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="2.258241%" cy="1.41641368%" fx="2.258241%" fy="1.41641368%" r="123.09779%" gradientTransform="translate(0.022582,0.014164),scale(0.921828,1.000000),rotate(53.211909),translate(-0.022582,-0.014164)" id="radialGradient-2">
+            <stop stop-color="#EEE8E8" offset="0%"></stop>
+            <stop stop-color="#BAB9B9" offset="45.9677844%"></stop>
+            <stop stop-color="#ADA8A8" offset="74.8214507%"></stop>
+            <stop stop-color="#8E8989" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient id="fmcParticleGlow" cx="50%" cy="50%" r="50%">
+            <stop stop-color="#FFFFFF" stop-opacity="0.96" offset="0%"></stop>
+            <stop stop-color="#E3DEDE" stop-opacity="0.68" offset="54%"></stop>
+            <stop stop-color="#BAB9B9" stop-opacity="0.08" offset="100%"></stop>
+        </radialGradient>
+        <filter id="fmcLogoMarkShadow" x="-18" y="-18" width="450" height="393" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feDropShadow in="SourceGraphic" dx="0" dy="2.4" stdDeviation="2.2" flood-color="#4A4747" flood-opacity="0.16"></feDropShadow>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fmc-background-particles" opacity="1">
+            <circle cx="17" cy="24" r="1.6" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="54" cy="58" r="1.9" fill="#BAB9B9" fill-opacity="0.34"></circle>
+            <circle cx="94" cy="19" r="1.2" fill="#FFFFFF" fill-opacity="0.44"></circle>
+            <circle cx="132" cy="49" r="1.7" fill="#9E9E9E" fill-opacity="0.30"></circle>
+            <circle cx="177" cy="22" r="1.6" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="218" cy="62" r="2.1" fill="#E3DEDE" fill-opacity="0.38"></circle>
+            <circle cx="258" cy="27" r="1.3" fill="#ACACAC" fill-opacity="0.32"></circle>
+            <circle cx="303" cy="55" r="2.0" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="347" cy="20" r="1.5" fill="#FFFFFF" fill-opacity="0.40"></circle>
+            <circle cx="394" cy="51" r="2.0" fill="#BAB9B9" fill-opacity="0.32"></circle>
+            <circle cx="30" cy="96" r="1.8" fill="#E3DEDE" fill-opacity="0.36"></circle>
+            <circle cx="76" cy="134" r="1.2" fill="#FFFFFF" fill-opacity="0.42"></circle>
+            <circle cx="116" cy="92" r="2.2" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="164" cy="123" r="1.4" fill="#ACACAC" fill-opacity="0.32"></circle>
+            <circle cx="205" cy="96" r="1.7" fill="#FFFFFF" fill-opacity="0.38"></circle>
+            <circle cx="251" cy="136" r="1.3" fill="#BAB9B9" fill-opacity="0.34"></circle>
+            <circle cx="296" cy="101" r="2.1" fill="#E3DEDE" fill-opacity="0.34"></circle>
+            <circle cx="339" cy="137" r="1.7" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="386" cy="101" r="1.7" fill="#9E9E9E" fill-opacity="0.30"></circle>
+            <circle cx="18" cy="177" r="1.5" fill="#FFFFFF" fill-opacity="0.38"></circle>
+            <circle cx="58" cy="220" r="2.1" fill="#BAB9B9" fill-opacity="0.32"></circle>
+            <circle cx="101" cy="171" r="1.3" fill="#ACACAC" fill-opacity="0.36"></circle>
+            <circle cx="145" cy="206" r="2.0" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="187" cy="176" r="1.2" fill="#FFFFFF" fill-opacity="0.44"></circle>
+            <circle cx="229" cy="217" r="2.0" fill="#E3DEDE" fill-opacity="0.34"></circle>
+            <circle cx="273" cy="181" r="1.4" fill="#9E9E9E" fill-opacity="0.32"></circle>
+            <circle cx="316" cy="221" r="1.7" fill="#FFFFFF" fill-opacity="0.36"></circle>
+            <circle cx="360" cy="175" r="2.1" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="401" cy="213" r="1.3" fill="#BAB9B9" fill-opacity="0.34"></circle>
+            <circle cx="35" cy="284" r="2.1" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="79" cy="326" r="1.4" fill="#E3DEDE" fill-opacity="0.36"></circle>
+            <circle cx="122" cy="265" r="1.7" fill="#FFFFFF" fill-opacity="0.38"></circle>
+            <circle cx="166" cy="314" r="1.2" fill="#BAB9B9" fill-opacity="0.36"></circle>
+            <circle cx="210" cy="276" r="2.1" fill="#ACACAC" fill-opacity="0.30"></circle>
+            <circle cx="254" cy="332" r="1.7" fill="url(#fmcParticleGlow)"></circle>
+            <circle cx="299" cy="270" r="1.8" fill="#FFFFFF" fill-opacity="0.36"></circle>
+            <circle cx="342" cy="319" r="1.3" fill="#9E9E9E" fill-opacity="0.32"></circle>
+            <circle cx="390" cy="281" r="2.0" fill="#E3DEDE" fill-opacity="0.34"></circle>
+            <circle cx="43" cy="21" r="2.7" fill="url(#fmcParticleGlow)" opacity="0.78"></circle>
+            <circle cx="151" cy="82" r="2.4" fill="#FFFFFF" fill-opacity="0.30"></circle>
+            <circle cx="268" cy="75" r="2.8" fill="url(#fmcParticleGlow)" opacity="0.72"></circle>
+            <circle cx="371" cy="146" r="2.5" fill="#E3DEDE" fill-opacity="0.30"></circle>
+            <circle cx="39" cy="247" r="2.4" fill="#FFFFFF" fill-opacity="0.28"></circle>
+            <circle cx="134" cy="341" r="2.6" fill="url(#fmcParticleGlow)" opacity="0.74"></circle>
+            <circle cx="243" cy="250" r="2.5" fill="#BAB9B9" fill-opacity="0.28"></circle>
+            <circle cx="374" cy="331" r="2.7" fill="url(#fmcParticleGlow)" opacity="0.70"></circle>
+        </g>
+        <g id="fmc-logo" transform="translate(1.659882, 1.908875)" fill-rule="nonzero" filter="url(#fmcLogoMarkShadow)">
+            <path d="M411.309587,0.0911250443 L411.309587,354.267394 L352.309587,354.267394 L352.309587,110.967772 L325.340118,129.133125 L325.340118,57.997125 L411.309587,0.0911250443 Z M286.340118,84.266125 L286.340118,155.402125 L219.300967,200.558543 L186.340118,151.624072 L286.340118,84.266125 Z" id="形状结合" fill="url(#radialGradient-1)"></path>
+            <path d="M384.309587,0.0911250443 L384.309587,354.267394 L325.309587,354.267394 L325.309587,110.967772 L298.340118,129.133125 L298.340118,57.997125 L384.309587,0.0911250443 Z M0,-5.68434189e-14 L192.223,129.475 L259.340118,84.266125 L259.340118,155.402125 L192.300967,200.558543 L192.123,200.296 L192.00862,200.467418 L59,110.876647 L59,354.176269 L0,354.176269 L0,-5.68434189e-14 Z" id="形状结合" stroke="#FCFBFB" fill="url(#radialGradient-2)"></path>
+        </g>
+    </g>
+</svg>
