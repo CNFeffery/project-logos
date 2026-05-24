@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" version="1.1" width="126" height="130" viewBox="0 0 126 130">
+  <defs>
+    <radialGradient id="factParticleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.82"/>
+      <stop offset="54%" stop-color="#BFEFFF" stop-opacity="0.46"/>
+      <stop offset="100%" stop-color="#27C6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" id="master_svg1_2_09087" gradientTransform="translate(39.49652415513992 118.33249151706696) rotate(63.21103576004861) scale(134.8002448609303 101.40444067920346)">
+      <stop offset="0%" stop-color="#127FFF" stop-opacity="1"/>
+      <stop offset="94.73759531974792%" stop-color="#27C6FF" stop-opacity="1"/>
+    </radialGradient>
+    <linearGradient x1="0.5" y1="0.591566264629364" x2="0.5" y2="1" id="master_svg3_2_07652">
+      <stop offset="0%" stop-color="#FF9D24" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FF6F07" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="factMainShadow" x="-18%" y="-12%" width="136%" height="128%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.35" flood-color="#0B64B8" flood-opacity="0.18"/>
+    </filter>
+    <filter id="factAccentShadow" x="-24%" y="-24%" width="148%" height="154%" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="1.2" stdDeviation="0.9" flood-color="#B95700" flood-opacity="0.18"/>
+    </filter>
+    <filter id="master_svg4_2_09227" filterUnits="objectBoundingBox" color-interpolation-filters="sRGB" x="0" y="0" width="1" height="1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="0.5" dx="0"/>
+      <feGaussianBlur stdDeviation="3"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.10000000149011612 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+    </filter>
+  </defs>
+  <g>
+    <g opacity="0.9">
+      <circle cx="5.5" cy="8.5" r="0.55" fill="#27C6FF" fill-opacity="0.24"/>
+      <circle cx="22" cy="12" r="0.85" fill="url(#factParticleGlow)"/>
+      <circle cx="43" cy="5.8" r="0.5" fill="#127FFF" fill-opacity="0.20"/>
+      <circle cx="61" cy="14.2" r="0.75" fill="#FFFFFF" fill-opacity="0.28"/>
+      <circle cx="84.5" cy="7.8" r="0.6" fill="#FF9D24" fill-opacity="0.18"/>
+      <circle cx="107.5" cy="16" r="0.78" fill="url(#factParticleGlow)"/>
+      <circle cx="121" cy="9.5" r="0.52" fill="#127FFF" fill-opacity="0.18"/>
+      <circle cx="13" cy="29" r="0.7" fill="#FFFFFF" fill-opacity="0.24"/>
+      <circle cx="34.5" cy="34" r="0.45" fill="#27C6FF" fill-opacity="0.24"/>
+      <circle cx="53.5" cy="27.5" r="0.8" fill="url(#factParticleGlow)"/>
+      <circle cx="74" cy="37" r="0.55" fill="#127FFF" fill-opacity="0.18"/>
+      <circle cx="94.5" cy="26.5" r="0.75" fill="#FFFFFF" fill-opacity="0.24"/>
+      <circle cx="109" cy="40" r="0.5" fill="#FF9D24" fill-opacity="0.16"/>
+      <circle cx="121.5" cy="32.5" r="0.68" fill="url(#factParticleGlow)"/>
+      <circle cx="5.8" cy="51.5" r="0.5" fill="#FF9D24" fill-opacity="0.18"/>
+      <circle cx="21.5" cy="45" r="0.65" fill="#27C6FF" fill-opacity="0.22"/>
+      <circle cx="42.5" cy="52.5" r="0.9" fill="#FFFFFF" fill-opacity="0.20"/>
+      <circle cx="63" cy="47.5" r="0.48" fill="#127FFF" fill-opacity="0.20"/>
+      <circle cx="84" cy="55" r="0.78" fill="url(#factParticleGlow)"/>
+      <circle cx="103.5" cy="58.5" r="0.62" fill="#27C6FF" fill-opacity="0.22"/>
+      <circle cx="119" cy="51.5" r="0.5" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="11.5" cy="73.5" r="0.8" fill="url(#factParticleGlow)"/>
+      <circle cx="29" cy="79.5" r="0.48" fill="#FFFFFF" fill-opacity="0.24"/>
+      <circle cx="50" cy="70" r="0.7" fill="#27C6FF" fill-opacity="0.20"/>
+      <circle cx="69" cy="82" r="0.55" fill="#FF9D24" fill-opacity="0.16"/>
+      <circle cx="89" cy="73" r="0.7" fill="#127FFF" fill-opacity="0.17"/>
+      <circle cx="108" cy="82.5" r="0.72" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="122" cy="72.5" r="0.72" fill="#27C6FF" fill-opacity="0.20"/>
+      <circle cx="4.5" cy="96" r="0.62" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="23" cy="91.5" r="0.52" fill="#127FFF" fill-opacity="0.18"/>
+      <circle cx="41.5" cy="101.5" r="0.84" fill="url(#factParticleGlow)"/>
+      <circle cx="62" cy="94.5" r="0.5" fill="#27C6FF" fill-opacity="0.24"/>
+      <circle cx="82.5" cy="101" r="0.72" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="101.5" cy="96.5" r="0.5" fill="#127FFF" fill-opacity="0.18"/>
+      <circle cx="119" cy="105.5" r="0.62" fill="#FF9D24" fill-opacity="0.15"/>
+      <circle cx="13.5" cy="118.5" r="0.75" fill="#27C6FF" fill-opacity="0.20"/>
+      <circle cx="33" cy="126.5" r="0.48" fill="#FF9D24" fill-opacity="0.15"/>
+      <circle cx="51.5" cy="117" r="0.68" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="72" cy="124" r="0.86" fill="url(#factParticleGlow)"/>
+      <circle cx="91.5" cy="118" r="0.5" fill="#127FFF" fill-opacity="0.18"/>
+      <circle cx="108.5" cy="126" r="0.58" fill="#27C6FF" fill-opacity="0.22"/>
+      <circle cx="121.5" cy="123.5" r="0.52" fill="#FFFFFF" fill-opacity="0.20"/>
+      <circle cx="8.5" cy="128" r="0.46" fill="#127FFF" fill-opacity="0.18"/>
+      <circle cx="45" cy="127" r="0.58" fill="#27C6FF" fill-opacity="0.22"/>
+      <circle cx="79.5" cy="128.5" r="0.44" fill="#FF9D24" fill-opacity="0.16"/>
+    </g>
+    <g transform="translate(18 0)">
+    <g filter="url(#factMainShadow)">
+      <path d="M13.65278,65C11.083120000000001,65,9,62.7614,9,60L9,12C9,9.23857,11.083120000000001,7,13.65278,7L61.2018,7C63.0656,7,64.7496,8.19533,65.4812,10.03758L67.652,15.50425C68.96170000000001,18.8027,66.7097,22.4667,63.3725,22.4667L32.077799999999996,22.4667C29.5081,22.4667,27.425,24.7052,27.425,27.4667L27.425,60C27.425,62.7614,25.3419,65,22.772199999999998,65L13.65278,65ZM34.125,73C31.5553,73,29.4722,70.76140000000001,29.4722,68L29.4722,63C29.4722,60.2386,31.5553,58,34.125,58L71.3472,58C73.9169,58,76,60.2386,76,63L76,68C76,70.76140000000001,73.9169,73,71.3472,73L34.125,73ZM9,120L9,72C9,69.23859999999999,11.083120000000001,67,13.65278,67L22.9583,67C25.528,67,27.6111,69.23859999999999,27.6111,72L27.6111,120C27.6111,122.761,25.528,125,22.9583,125L13.65278,125C11.083120000000001,125,9,122.761,9,120Z" fill-rule="evenodd" fill="url(#master_svg1_2_09087)" fill-opacity="1"/>
+    </g>
+    <g>
+      <g filter="url(#factAccentShadow)">
+        <path d="M70.82296,7C69.496218,7,68.614913,8.13853,69.167705,9.13836L76.34475,22.119500000000002C76.99385,23.2935,79.0061,23.2935,79.6553,22.119500000000002L86.8323,9.13836C87.3851,8.13853,86.5038,7,85.17699999999999,7L70.82296,7Z" fill="url(#master_svg3_2_07652)" fill-opacity="1"/>
+      </g>
+      <g filter="url(#master_svg4_2_09227)">
+        <path d="M74.01275,9C73.275677,9,72.786063,9.711579,73.0931695,10.33648L77.08042,18.449669999999998C77.44103,19.1834,78.55897,19.1834,78.91958,18.449669999999998L82.90683,10.33648C83.2139,9.711579,82.72432,9,81.98725,9L74.01275,9Z" fill="#FF7C0F" fill-opacity="1"/>
+      </g>
+    </g>
+    </g>
+  </g>
+</svg>
