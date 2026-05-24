@@ -5,6 +5,7 @@
 - [dash](#dash)
 - [magic-dash](#magic-dash)
 - [feffery-antd-components](#feffery-antd-components)
+- [feffery-antd-charts](#feffery-antd-charts)
 - [feffery-infographic](#feffery-infographic)
 
 ## dash
@@ -23,6 +24,12 @@
 
 <p align="center">
   <img src="feffery-antd-components/fac-logo.svg" alt="feffery-antd-components logo" width="50%" />
+</p>
+
+## feffery-antd-charts
+
+<p align="center">
+  <img src="feffery-antd-charts/fact-logo.svg" alt="feffery-antd-charts logo" width="50%" />
 </p>
 
 ## feffery-infographic
