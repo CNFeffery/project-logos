@@ -17,7 +17,7 @@
 ## magic-dash
 
 <p align="center">
-  <img src="magic-dash/logo.svg" alt="magic-dash logo" width="50%" />
+  <img src="magic-dash/magic-dash-logo.svg" alt="magic-dash logo" width="50%" />
 </p>
 
 ## feffery-antd-components
