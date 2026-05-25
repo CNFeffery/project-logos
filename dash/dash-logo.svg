@@ -22,34 +22,34 @@
       <stop offset="0" stop-color="#ff2c6d"/>
       <stop offset="1" stop-color="#7fe4ff"/>
     </linearGradient>
-    <linearGradient id="aurora-ribbon-main" x1="55" y1="4" x2="124" y2="43" gradientUnits="userSpaceOnUse">
+    <linearGradient id="aurora-ribbon-main" x1="61" y1="-1" x2="130" y2="38" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0821ff" stop-opacity=".08"/>
       <stop offset=".25" stop-color="#126dff" stop-opacity=".48"/>
       <stop offset=".49" stop-color="#65eaff" stop-opacity=".26"/>
       <stop offset=".76" stop-color="#b722ff" stop-opacity=".36"/>
       <stop offset="1" stop-color="#ff2c6d" stop-opacity=".12"/>
     </linearGradient>
-    <linearGradient id="aurora-ribbon-hot" x1="88" y1="0" x2="123" y2="62" gradientUnits="userSpaceOnUse">
+    <linearGradient id="aurora-ribbon-hot" x1="94" y1="-5" x2="129" y2="57" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#2913ff" stop-opacity=".02"/>
       <stop offset=".24" stop-color="#a51fff" stop-opacity=".36"/>
       <stop offset=".5" stop-color="#ff17bf" stop-opacity=".62"/>
       <stop offset=".77" stop-color="#ff2c6d" stop-opacity=".38"/>
       <stop offset="1" stop-color="#ff641a" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="aurora-ribbon-cool" x1="56" y1="4" x2="112" y2="29" gradientUnits="userSpaceOnUse">
+    <linearGradient id="aurora-ribbon-cool" x1="62" y1="-1" x2="118" y2="24" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0b2aff" stop-opacity=".42"/>
       <stop offset=".43" stop-color="#168dff" stop-opacity=".46"/>
       <stop offset=".7" stop-color="#79efff" stop-opacity=".25"/>
       <stop offset="1" stop-color="#93fbff" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="aurora-stripe-pink" x1="92" y1="0" x2="121" y2="59" gradientUnits="userSpaceOnUse">
+    <linearGradient id="aurora-stripe-pink" x1="98" y1="-5" x2="127" y2="54" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#431cff" stop-opacity="0"/>
       <stop offset=".31" stop-color="#c71cff" stop-opacity=".58"/>
       <stop offset=".57" stop-color="#ff24b8" stop-opacity=".64"/>
       <stop offset=".83" stop-color="#ff2c6d" stop-opacity=".32"/>
       <stop offset="1" stop-color="#ff641a" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="aurora-stripe-cyan" x1="58" y1="2" x2="112" y2="31" gradientUnits="userSpaceOnUse">
+    <linearGradient id="aurora-stripe-cyan" x1="64" y1="-3" x2="118" y2="26" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#1832ff" stop-opacity=".04"/>
       <stop offset=".4" stop-color="#1d90ff" stop-opacity=".43"/>
       <stop offset=".68" stop-color="#73f2ff" stop-opacity=".24"/>
@@ -60,7 +60,7 @@
       <stop offset=".42" stop-color="#ff2c6d" stop-opacity=".16"/>
       <stop offset="1" stop-color="#ff2c6d" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="blue-top-glow" cx="0" cy="0" r="1" gradientTransform="translate(78 13) scale(24 16)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="blue-top-glow" cx="0" cy="0" r="1" gradientTransform="translate(84 9) scale(24 16)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#1f84ff" stop-opacity=".5"/>
       <stop offset=".55" stop-color="#0b46ff" stop-opacity=".18"/>
       <stop offset="1" stop-color="#0b46ff" stop-opacity="0"/>
@@ -75,12 +75,12 @@
       <stop offset=".46" stop-color="#70e2ff" stop-opacity=".22"/>
       <stop offset="1" stop-color="#70e2ff" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="purple-glow" cx="0" cy="0" r="1" gradientTransform="translate(113 25) scale(23 29)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="purple-glow" cx="0" cy="0" r="1" gradientTransform="translate(119 20) scale(23 29)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#ca28ff" stop-opacity=".48"/>
       <stop offset=".48" stop-color="#bd2dff" stop-opacity=".16"/>
       <stop offset="1" stop-color="#bd2dff" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="red-edge-glow" cx="0" cy="0" r="1" gradientTransform="translate(114 43) scale(12 18)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="red-edge-glow" cx="0" cy="0" r="1" gradientTransform="translate(120 38) scale(12 18)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#ff2c6d" stop-opacity=".28"/>
       <stop offset="1" stop-color="#ff2c6d" stop-opacity="0"/>
     </radialGradient>
@@ -109,17 +109,17 @@
   <g clip-path="url(#rounded-bg)">
     <rect x="28.88" y="6.47" width="93.99" height="93.99" fill="#070707"/>
     <ellipse cx="37" cy="43" rx="31" ry="36" fill="url(#magenta-glow)" filter="url(#mist-blur)"/>
-    <ellipse cx="79" cy="13" rx="25" ry="17" fill="url(#blue-top-glow)" filter="url(#soft-blur)"/>
-    <ellipse cx="111" cy="27" rx="25" ry="31" fill="url(#purple-glow)" filter="url(#mist-blur)"/>
-    <ellipse cx="115" cy="45" rx="13" ry="20" fill="url(#red-edge-glow)" filter="url(#soft-blur)"/>
+    <ellipse cx="85" cy="9" rx="25" ry="17" fill="url(#blue-top-glow)" filter="url(#soft-blur)"/>
+    <ellipse cx="117" cy="22" rx="25" ry="31" fill="url(#purple-glow)" filter="url(#mist-blur)"/>
+    <ellipse cx="121" cy="40" rx="13" ry="20" fill="url(#red-edge-glow)" filter="url(#soft-blur)"/>
     <ellipse cx="104" cy="84" rx="20" ry="20" fill="url(#cyan-glow)" filter="url(#mist-blur)"/>
     <ellipse cx="112" cy="91" rx="24" ry="22" fill="url(#corner-cyan-glow)" filter="url(#mist-blur)"/>
-    <path d="M55.5 5.5c11.5-7 28.7-4.8 42.1 3.4 10.8 6.6 15.7 19.6 25.4 25.3v20.8c-11.6-9.5-18.2-16.2-26.4-24.8-9.9-10.3-23.7-9.5-38.4-7.6-1-6.5-1.9-10.8-2.7-17.1Z" fill="url(#aurora-ribbon-main)" filter="url(#mist-blur)" opacity=".88"/>
-    <path d="M57 7c13-2 25.2-.8 36.1 5.2 6.4 3.6 11.7 8.6 16.9 15-10.4-3.2-18.6-8.5-27.4-11.1-8.8-2.7-17.9-.9-26.8.1 0-3.1.3-6.1 1.2-9.2Z" fill="url(#aurora-ribbon-cool)" filter="url(#ribbon-blur)" opacity=".68"/>
-    <path d="M91.2 2c7.7 10.6 9.9 21.8 15.7 32.8 3.5 6.5 8.5 12.9 16.1 19.3v17.9c-12.8-12.2-20.3-25-24.4-37.4-3.7-11.1-6.1-21.8-11.2-31.4 1.4-.5 2.6-.9 3.8-1.2Z" fill="url(#aurora-ribbon-hot)" filter="url(#ribbon-blur)" opacity=".74"/>
-    <path d="M60 5.5c12.2-.9 24.5.3 34.8 7.2 6.6 4.4 11 9.9 16.2 16.8" fill="none" stroke="url(#aurora-stripe-cyan)" stroke-width="11" stroke-linecap="round" opacity=".34" filter="url(#ribbon-blur)"/>
-    <path d="M93 .5c3.5 9.9 5.5 21 10.8 32 4.4 9.3 10.2 16.7 17.2 23.3" fill="none" stroke="url(#aurora-stripe-pink)" stroke-width="6.5" stroke-linecap="round" opacity=".36" filter="url(#stripe-blur)"/>
-    <path d="M96.5 1.5c2.9 9.7 5.5 19.8 10.6 29.5 3.7 7 8.7 13.5 15.1 19.6" fill="none" stroke="#ff2c6d" stroke-width="2.2" stroke-linecap="round" opacity=".12" filter="url(#stripe-blur)"/>
+    <path d="M61.5 .5c11.5-7 28.7-4.8 42.1 3.4 10.8 6.6 15.7 19.6 25.4 25.3v20.8c-11.6-9.5-18.2-16.2-26.4-24.8-9.9-10.3-23.7-9.5-38.4-7.6-1-6.5-1.9-10.8-2.7-17.1Z" fill="url(#aurora-ribbon-main)" filter="url(#mist-blur)" opacity=".88"/>
+    <path d="M63 2c13-2 25.2-.8 36.1 5.2 6.4 3.6 11.7 8.6 16.9 15-10.4-3.2-18.6-8.5-27.4-11.1-8.8-2.7-17.9-.9-26.8.1 0-3.1.3-6.1 1.2-9.2Z" fill="url(#aurora-ribbon-cool)" filter="url(#ribbon-blur)" opacity=".68"/>
+    <path d="M97.2-3c7.7 10.6 9.9 21.8 15.7 32.8 3.5 6.5 8.5 12.9 16.1 19.3v17.9c-12.8-12.2-20.3-25-24.4-37.4-3.7-11.1-6.1-21.8-11.2-31.4 1.4-.5 2.6-.9 3.8-1.2Z" fill="url(#aurora-ribbon-hot)" filter="url(#ribbon-blur)" opacity=".74"/>
+    <path d="M66 .5c12.2-.9 24.5.3 34.8 7.2 6.6 4.4 11 9.9 16.2 16.8" fill="none" stroke="url(#aurora-stripe-cyan)" stroke-width="11" stroke-linecap="round" opacity=".34" filter="url(#ribbon-blur)"/>
+    <path d="M99-4.5c3.5 9.9 5.5 21 10.8 32 4.4 9.3 10.2 16.7 17.2 23.3" fill="none" stroke="url(#aurora-stripe-pink)" stroke-width="6.5" stroke-linecap="round" opacity=".36" filter="url(#stripe-blur)"/>
+    <path d="M102.5-3.5c2.9 9.7 5.5 19.8 10.6 29.5 3.7 7 8.7 13.5 15.1 19.6" fill="none" stroke="#ff2c6d" stroke-width="2.2" stroke-linecap="round" opacity=".12" filter="url(#stripe-blur)"/>
     <rect x="28.88" y="6.47" width="93.99" height="93.99" fill="url(#soft-vignette)"/>
   </g>
   <g transform="translate(75.875 53.465) scale(.86) translate(-75.875 -53.465)">
